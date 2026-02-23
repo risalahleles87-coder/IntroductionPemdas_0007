@@ -4,6 +4,6 @@ using std::endl;
 
 int main()
 {
-    cout ,, "selamat datang di TI UMY" << endl;
+    cout << "selamat bulan suci ramadhan" << endl;
     cout << 10;
 }
