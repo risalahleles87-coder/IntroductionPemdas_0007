@@ -6,6 +6,6 @@ int main()
 
     int luas, panjang, lebar;
 
-    cout << "masukkan lebar :";
-    cin >> lebar;
+cout << "masukkan panjang :";
+cin >> panjang;
 }
